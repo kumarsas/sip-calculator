@@ -48,4 +48,17 @@
 
  	git init
  	add --> git add .
- 	commit --> git commit -a -m "Initial Commit"
+ 	commit --> git commit -a -m "Adding heroku port"
+
+10) Create new repository in github
+	git remote add origin https://github.com/kumarsas/sip-calculator.git
+	git push -u origin master
+
+
+11) Push To Heroku
+
+	heroku create
+
+	git push heroku master
+
+	heroku open
