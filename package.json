@@ -2,7 +2,7 @@
   "name": "sip-calculator",
   "version": "1.0.0",
   "description": "sip calculator",
-  "main": "sip-calculator.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
